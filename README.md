@@ -46,3 +46,19 @@ Discussed Concepts:
 *************************
 --->
 -------------------------------------
+
+## Day01 Introduction to Machine Learning (26-Oct-2020)
+
+### Discussed Concepts:
+
+1. What is Machine Learning?
+2. What is AI, ML and DL & How they are related
+3. Introduction to Machine Learning
+4. ML Lifecycle
+2. Machine Learning Classification
+4. Supervised Learning Classification
+5. Clasiffication of real world data
+
+### [[Day01_Slides]](Day01_26Oct2020/MachineLearningIntro.pdf)
+### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/69b5eecf7795177dbb64e773ed19433c250dcb8c2e348e6351f6eb24eae038fe)
+**********************************************
