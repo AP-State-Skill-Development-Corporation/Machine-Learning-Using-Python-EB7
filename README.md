@@ -59,8 +59,7 @@ Discussed Concepts:
 4. Supervised Learning Classification
 5. Clasiffication of real world data
 
-### [[Day01_Slides]](Day01_26Oct2020/MachineLearningIntro.pdf)
-### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/69b5eecf7795177dbb64e773ed19433c250dcb8c2e348e6351f6eb24eae038fe)
+### [[Day01_Slides]](Day01_26Oct2020/MachineLearningIntro.pdf), [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/69b5eecf7795177dbb64e773ed19433c250dcb8c2e348e6351f6eb24eae038fe)
 **********************************************
 
 
@@ -77,6 +76,22 @@ Discussed Concepts:
 1. Created ML model to predict the salary based on YearsOfExperience
 
 ### Day02 Jupyter Notebook [[.ipynb format]](Day02_27Oct2020/Day02_Linear_Regression.ipynb), [[.pdf format]](Day02_27Oct2020/Day02_Linear_Regression.pdf)
-### [[Day02_Slides]](Day02_27Oct2020/Linear_Regression_Slides.pdf)
-### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/1ce89623c2769bc03314093fdd98cd70fdef2cf9607c0d15ef12895ef6ff9c0f)
+### [[Day02_Slides]](Day02_27Oct2020/Linear_Regression_Slides.pdf), [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/1ce89623c2769bc03314093fdd98cd70fdef2cf9607c0d15ef12895ef6ff9c0f)
 **********************
+
+## Day03 Multi Linear Regression & Polynomial Regression (28-Oct-2020)
+### Discussed Concepts:
+
+1. Linear regression with multiple variable
+1. Created ML model to predict the CO2 emissions of the cars based in few features
+1. Non Linear regression
+1. Under Fit. Best Fit, Over Fit of model
+2. Polynomial Regression with one variable to predict GDP of China country based on years
+
+### Day03_Multi_Linear_and_Polynomial_Regression_Jupyter_Notebook [[.ipynb format]](Day03_28Oct2020/Day03_Multi_Linear_and_Polynomial_Regression.ipynb), [[.pdf format]](Day03_28Oct2020/Day03_Multi_Linear_and_Polynomial_Regression.pdf)
+
+### Day03_Non_Linear_Functions [[.ipynb format]](Day03_28Oct2020/Non_Linear_Regression_Functions.ipynb), [[.pdf format]](Day03_28Oct2020/Non_Linear_Regression_Functions..pdf)
+
+### [[Day03_Slides]](Day03_28Oct2020/Polynomial_Regression_Slides.pdf), [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/07a34e62f0bf0a5f608da5f60f0cdbd30dd66618f0d1947301693053575006c1)
+
+***
