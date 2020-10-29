@@ -95,3 +95,18 @@ Discussed Concepts:
 ### [[Day03_Slides]](Day03_28Oct2020/Polynomial_Regression_Slides.pdf), [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/07a34e62f0bf0a5f608da5f60f0cdbd30dd66618f0d1947301693053575006c1)
 
 ***
+
+## Day04 Classification models - 1 (29-Oct-2020)
+
+### Discussed Concepts:
+
+1. Introduction to categorical types of data
+1. Types of classification
+    - Based on prediction value
+    - Based on Class
+1. K-Nearest Neighbors Classifier
+1. Evaluation Metrics for classification Models
+
+### Day04 Jupyter Notebook [[.ipynb format]](Day04_29Oct2020/Day04_K-Nearest_Neighbors.ipynb), [[.pdf format]](Day04_29Oct2020/Day04_K-Nearest_Neighbors.pdf)
+### [[Day04_Slides]](Day04_29Oct2020/K-NearestNeighbors_Slides.pdf), [[Day04_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/d2d43a43d446626e3d0b9820adb82db5f42679847e8ecf048af068046d8e26f3)
+-------
