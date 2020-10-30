@@ -110,3 +110,13 @@ Discussed Concepts:
 ### Day04 Jupyter Notebook [[.ipynb format]](Day04_29Oct2020/Day04_K-Nearest_Neighbors.ipynb), [[.pdf format]](Day04_29Oct2020/Day04_K-Nearest_Neighbors.pdf)
 ### [[Day04_Slides]](Day04_29Oct2020/K-NearestNeighbors_Slides.pdf), [[Day04_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/d2d43a43d446626e3d0b9820adb82db5f42679847e8ecf048af068046d8e26f3)
 -------
+
+## Day05 Classification models - 1	(30-Oct-2020)
+### Discussed Concepts:
+
+1. Logistic regression
+2. Support Vector Machines 
+
+### Day05 Jupyter Notebook [[.ipynb format]](Day05_30Oct2020/Logistic_Regression_&_SVM.ipynb), [[.pdf format]](Day05_30Oct2020/Logistic_Regression_&_SVM.pdf)
+### [[Day05_Slides]](Day05_30Oct2020/Logistic_Regression_&_SVM_Slides.pdf), [[Day05_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/93f65f1aed85257f55a2d9f8be42c6e52f35bdb77740cbcde738bc4de838866a)
+-------
