@@ -120,3 +120,43 @@ Discussed Concepts:
 ### Day05 Jupyter Notebook [[.ipynb format]](Day05_30Oct2020/Logistic_Regression_&_SVM.ipynb), [[.pdf format]](Day05_30Oct2020/Logistic_Regression_&_SVM.pdf)
 ### [[Day05_Slides]](Day05_30Oct2020/Logistic_Regression_&_SVM_Slides.pdf), [[Day05_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/93f65f1aed85257f55a2d9f8be42c6e52f35bdb77740cbcde738bc4de838866a)
 -------
+
+## Day06 Classification models - 2	(31-Oct-2020)
+### Discussed Concepts:
+
+1. Introduction to Decision Tree
+1. Terminology related to Decision Trees
+1. Types of Decision Trees
+1. Decision Trees Classifier
+
+### Day06 Jupyter Notebook [[.ipynb format]](Day06_31Oct2020/Day06-31Oct2020.ipynb) 
+
+### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/b986bdc23495af1cacee277917d8cbdfcde1420cccb12865358ef9aa4db090bc)
+-------
+
+## Day07 Classification models - 2	(02-Nov-2020)
+### Discussed Concepts:
+
+1. Decision Tree Regressor
+1. Intro to Random Forest Algorithm
+
+### Day07 Jupyter Notebook [[.ipynb format will be updated]]()
+
+### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/3a7c55eafbc4edcc06e0bde8570d27287422b9457a4a1de0e864229fc5ad0c1c)
+-------
+
+## Day08 Unsupervised Learning and Clustering (03-Nov-2020)
+### Discussed Concepts:
+
+1. Random Forest algorithm on Birds Dataset
+1. Introduction to Unsupervised Learning
+1. Types of Unsupervised Learning
+1. Introduction to clustering
+1. Types of Clustering methods
+1. KMeans Clustering
+1. Applications
+
+### Day08 Jupyter Notebook [[.ipynb format]](Day08_03Nov2020/Day08_RandomForest_&_KMeans.ipynb)
+
+### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/b3934c1e7fa604a0e0b903926d561f2807e6143220d290a488e50d5ce7078992)
+-------
