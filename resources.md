@@ -26,6 +26,22 @@
 3. **[Data.World](https://data.world/)**
 4. **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**
 
+## Reference Courses
+
+1. **[Free Courses During Pandemic](https://medium.com/@anilkumarteegala/free-online-certificate-courses-you-can-start-during-covid-19-epidemic-8cbfdce1a49e)**
+2. **[Git Version Control](https://openclassrooms.com/en/courses/5671626-manage-your-code-project-with-git-github)**
+2. **[ML Course by Andrew Ng.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**
+2. **[ML Course from Free Code Camp](https://www.freecodecamp.org/learn/)**
+3. **[Open Deep Learning and Reinforcement Learning lectures from top Universities](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)**
+3. **Math Courses**
+    1. **[Intro to statistics](https://in.udacity.com/portfolio-builder/intro-to-statistics--st101)**
+    1. **[Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)**
+    1. **[Intro to Descriptive Statistics](https://in.udacity.com/course/intro-to-descriptive-statistics--ud827)**
+    1. **[Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)**
+    1. **[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)**
+    1. **[Linear Algebra](https://www.khanacademy.org/math/linear-algebra)**
+	  1. **[Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)**
+
 ## Few more imp. suggestions
 1. Everyone should have professional [**LinkedIn**](https://www.linkedin.com/) profile for future job purpose build nice LinkedIn profile.
 2. If you are a programmer you should have [**GitHub**](github.com) profile with your learnings and projects.
