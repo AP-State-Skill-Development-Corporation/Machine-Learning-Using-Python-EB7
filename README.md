@@ -140,7 +140,7 @@ Discussed Concepts:
 1. Decision Tree Regressor
 1. Intro to Random Forest Algorithm
 
-### Day07 Jupyter Notebook [[.ipynb format will be updated]]()
+### Day07 Jupyter Notebook [[.ipynb format will be updated]](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB7/tree/master/Day7_10-9-2020)
 
 ### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/3a7c55eafbc4edcc06e0bde8570d27287422b9457a4a1de0e864229fc5ad0c1c)
 -------
