@@ -4,25 +4,13 @@
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 <!---
 #### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/17K-s9vjNNyazDjOFWDkjtD-GQa8Un1kn89jR56ktxu8/edit?usp=sharing)
--->
+
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml4) → Meeting Id → 507356717
-
-
-#### Join the Slack Channel for Communication Purpose [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-ihlb1tdx-Q~JMX0hblP9~9srnZ8jzww)
-
+-->
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
-### Instructions for attendance
-
-Everyone should compulsory follow the below instruction in order to get the attendance → Certificate
-
-1. Login format **`rollnumber-name-college`**
-2. Don't give spaces in roll number or shorcut of your roll number
-3. Don't give spaces between rollnumber and name (only - single minus or hyphen character)
-4. Make sure roll number should match with the registered roll number
-5. Minimum **`120`** minutes should attend in **`150`** minutes session with same login format
 
 <!-----
 ******************************
@@ -140,7 +128,7 @@ Discussed Concepts:
 1. Decision Tree Regressor
 1. Intro to Random Forest Algorithm
 
-### Day07 Jupyter Notebook [[.ipynb format will be updated]](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB7/tree/master/Day7_10-9-2020)
+### Day07 Jupyter Notebook [[.ipynb]](Day7_10-9-2020/Day7_10-9-2020(Random_Forest).ipynb)
 
 ### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/3a7c55eafbc4edcc06e0bde8570d27287422b9457a4a1de0e864229fc5ad0c1c)
 -------
@@ -160,3 +148,15 @@ Discussed Concepts:
 
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/b3934c1e7fa604a0e0b903926d561f2807e6143220d290a488e50d5ce7078992)
 -------
+
+## Day09 Unsupervised Learning and Clustering (04-Nov-2020)
+### Discussed Concepts:
+
+1. Dimensionality reduction
+2. Principal Component Analysis (PCA)
+
+### Day09 Jupyter Notebook [[.ipynb format]](Day09-04Nov2020/Day9-04nov2020(Dimensionality Reduction).ipynb)
+
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a74171174904ae0a146bc5351cd35a12f17af2d26a94aad0cdef029f84d7d6bf)
+
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
