@@ -155,7 +155,7 @@ Discussed Concepts:
 1. Dimensionality reduction
 2. Principal Component Analysis (PCA)
 
-### Day09 Jupyter Notebook [[.ipynb format]](Day09-04Nov2020/Day9-04nov2020(Dimensionality Reduction).ipynb)
+### Day09 Jupyter Notebook [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB7/blob/master/Day09-04Nov2020/Day9-04nov2020(Dimensionality%20Reduction).ipynb)
 
 ### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a74171174904ae0a146bc5351cd35a12f17af2d26a94aad0cdef029f84d7d6bf)
 
